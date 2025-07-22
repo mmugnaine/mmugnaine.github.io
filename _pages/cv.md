@@ -38,13 +38,13 @@ State University of Ponta Grossa\
 
 
 ## Researche experience
-* **Postdoctoral Researcher**  <span style="float:right;">**Since Nov/2023**</span>\
+* **Postdoctoral Researcher**  <span style="float:right;">**Nov/2023-Jan/2024**</span>\
 University of Texas at Austin\
   * Postdoctoral researcher at the Institute for Fusion Studies of University of Texas at Austin
   * Theoretical and numerical investigation of mechanism of transport in symplectic maps
   * Supervisor: Prof.  Philip J. Morrison
 
-* **Postdoctoral Researcher**  <span style="float:right;">**Since Nov/2022**</span>\
+* **Postdoctoral Researcher**  <span style="float:right;">**Nov/2022 - Jun/2025**</span>\
 University of São Paulo\
   * Postdoctoral researcher at the Institute of Physics of University of São Paulo
   * Theoretical and numerical investigation of Oscillations in Magnetically Confined Plasmas
@@ -57,6 +57,11 @@ Federal University of Paraná\
   * Advisors: Prof. Dr. Ricardo Luiz Viana and Prof. Dr. José Danilo Szezech Jr.
 
 ## Teaching and mentoring experience
+
+* **Professor**  <span style="float:right;">**Since 2025**</span>\
+Lorena School of Engineering, University of São Paulo
+  *  Calculus I
+  *  Analytic geometry
 
 * **Assistant professor**  <span style="float:right;">**2023**</span>\
 University of São Paulo
