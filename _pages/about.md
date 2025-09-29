@@ -22,5 +22,6 @@ redirect_from:
 
 ## News
 
-* New manuscript published: [Secondary shearless bifurcations for two isochronous resonant perturbations](https://pubs.aip.org/aip/cha/article-abstract/35/4/043136/3344494/Secondary-shearless-bifurcations-for-two?redirectedFrom=fulltext)
-* New manuscript posted on ArXiv: [Isochronous bifurcations dependence on the driving mode phase shift in two-harmonic standard maps]([https://arxiv.org/abs/2312.12552](https://arxiv.org/abs/2505.00179))
+* New manuscript published: [Dependence of isochronous bifurcations on the driving-mode phase shift
+in two-harmonic standard maps](https://journals.aps.org/pre/abstract/10.1103/6v36-6h3s)
+* New manuscript published: [Transport mechanisms associated with non-integer wavenumbers in a discontinuous nontwist map](https://www.sciencedirect.com/science/article/pii/S0960077925009798)
